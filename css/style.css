@@ -14,7 +14,7 @@
   @font-face {
     font-family:"Brandon Regular";
     src: url("../css/Brandon_reg.ttf") format("ttf"),
-    url("Brandon_reg.ttf") format("ttf") ;
+    url("../css/Brandon_reg.ttf") format("ttf") ;
     font-weight: normal;
     font-style: normal;
   }
