@@ -6,14 +6,14 @@
   
   @font-face {
     font-family: "Le Major";
-    src: url("LeMajor-Regular.ttf") format("ttf"),
-    url("LeMajor-Regular.ttf") format("ttf") ;
+    src: url("../css/LeMajor-Regular.ttf") format("ttf"),
+    url("../css/LeMajor-Regular.ttf") format("ttf") ;
     font-weight: normal;
     font-style: normal;
   }
   @font-face {
     font-family:"Brandon Regular";
-    src: url("Brandon_reg.ttf") format("ttf"),
+    src: url("../css/Brandon_reg.ttf") format("ttf"),
     url("Brandon_reg.ttf") format("ttf") ;
     font-weight: normal;
     font-style: normal;
